@@ -1,5 +1,5 @@
 
-package bamk.management.system;
+package bank.management.system;
 import java.sql.*;
 
 public class Conn {
